@@ -1,0 +1,4 @@
+uno	one	itt
+dos	two	zwei
+tres	three	tres
+cuatro	cuatri	vier
