@@ -1,4 +1,4 @@
-uno	one	itt
+uno	one	ett
 dos	two	zwei
 tres	three	tres
-cuatro	cuatri	vier
+cuatro	four	vier
