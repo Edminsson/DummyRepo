@@ -1,4 +1,4 @@
 uno	one	ein
 dos	two	zwei
-tres	three	tre
+tres	three	drei
 fyra	cuatro	vier
