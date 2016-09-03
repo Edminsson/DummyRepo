@@ -5,5 +5,6 @@ branching
 merging
 resolving conflicts
 tools
+better commit messages from cmd
 ##Interesting
 What happens with windows CR+LF when pushing?
